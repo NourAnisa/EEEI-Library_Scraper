@@ -1,4 +1,4 @@
-# EEEI-Library_Scraper
+#  IEEE-Library_Scraper
 1. clone repository
 2. buka file IEEEScraper.py
 3. ubah API_KEY sesuai dengan yang di dapat
