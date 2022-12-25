@@ -1,5 +1,9 @@
 #  IEEE-Library_Scraper
-1. clone repository
+step:
+1. Download/Clone
+   ```sh
+   git clone https://github.com/sukaNLP/instagram_scrapper.git
+   ```
 2. buka file IEEEScraper.py
 3. ubah API_KEY sesuai dengan yang di dapat
 
