@@ -2,7 +2,7 @@
 step:
 1. Download/Clone
    ```sh
-   git clone https://github.com/sukaNLP/instagram_scrapper.git
+   git clone https://github.com/NourAnisa/IEEE-Library_Scraper.git
    ```
 2. buka file IEEEScraper.py
 3. ubah API_KEY sesuai dengan yang di dapat
